@@ -1,2 +1,1 @@
-# Dragonica
- Welcome to my Dragonica F7 remake repository. This project aims to recreate the F7 tower defense mode from Dragonica in Unity as an offline game that targets both mobile and pc.
+2D Remake of Dragonica's F7 tower defense mode in Unity.
